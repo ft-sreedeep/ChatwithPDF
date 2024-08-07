@@ -3,7 +3,7 @@
 A Streamlit application designed to facilitate interaction with uploaded PDF documents through natural language queries. Users can upload PDF files and engage in a conversational chat to retrieve information based on the document content.
 
 
-https://github.com/user-attachments/assets/39e0bff8-36d5-4b88-a1f6-493c4cc188c7
+https://github.com/user-attachments/assets/39e0bff8-36d5-4b88-a1f6-493c4cc188c7 
 
 #### How to Run
 
